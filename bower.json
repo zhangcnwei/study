@@ -1,0 +1,25 @@
+{
+  "name": "gitStudy",
+  "description": "zhangwei study",
+  "main": "none",
+  "authors": [
+    "zhangzhangwei <439197@163.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "study"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "jquery": "^3.1.1"
+  }
+}
